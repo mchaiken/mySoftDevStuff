@@ -16,7 +16,7 @@ Ask a who, where, or why question, and we'll try and answer it with google resul
 #### Miranda, Leon, Edison, Eric
 #### Description
 Online blogging service with sqlite
-#### https://github.com/voidyknight/BlogEngine
+#### https://github.com/voidyknight/BlogEngine.git
 
 ## Mini Projects
 
