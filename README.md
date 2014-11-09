@@ -12,20 +12,20 @@ Period 5
 Ask a who, where, or why question, and we'll try and answer it with google results on key words
 #### https://github.com/NathanielBrassell/Screen_Scraping.git
 
-### Project 2 name
-#### Team members
+### Blogline
+#### Miranda, Leon, Edison, Eric
 #### Description
-Describe your project here
-#### put the https clone link here
+Online blogging surface with sqlite
+#### https://github.com/voidyknight/BlogEngine
 
 ## Mini Projects
 
  * login
-  * Mike Zamansky, Partner name
-  * 6/login/foldername
+  * Miranda Chaiken, Leon Frajmund
+  * 5/login/leon_miranda
  * regexp
-  * Mike Zamansky, Partner name 
-	* 6/regexp/foldername
+  * Miranda Chaiken, Andrew Lee
+	* 5/regexp/miranda_andrew
  * intro-proj 1
-  * Mike Zamansky, Partner name 
-  * 6/intro-proj1/foldernae
+  * Miranda Chaiken, Jenny Baran 
+  * 5/intro-proj1/miranda_jenny
