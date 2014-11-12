@@ -18,6 +18,12 @@ Ask a who, where, or why question, and we'll try and answer it with google resul
 Online blogging service with sqlite
 #### https://github.com/voidyknight/BlogEngine.git
 
+### Ovenbot
+#### Miranda, Sydney
+#### Description
+Give us some ingredients and Ovenbot will povide you with a variety of dishes with those ingredients using the Yummly API. For each recipe it will also provide you a thematic playlist from 8traks, and a youtube tutorial for a similar recipe
+#### https://github.com/mchaiken/yummly.git
+
 ## Mini Projects
 
  * login
