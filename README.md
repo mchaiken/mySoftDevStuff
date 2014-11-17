@@ -26,7 +26,7 @@ Give us some ingredients and Ovenbot will povide you with a variety of dishes wi
 
 ## Mini Projects
 
- * login
+ * login/decorators
   * Miranda Chaiken, Leon Frajmund
   * 5/login/leon_miranda
  * regexp
