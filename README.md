@@ -34,7 +34,7 @@ Give us some ingredients and Ovenbot will povide you with a variety of dishes wi
 	* 5/regexp/miranda_andrew
  * intro-proj 1
   * Miranda Chaiken, Jenny Baran 
-  * 5/intro-proj1/miranda_jenny
-* to do list
+  	* 5/intro-proj1/miranda_jenny
+ * to do list
   * Miranda Chaiken
-  * 5/todo/miranda_chaiken
+  	* 5/todo/miranda_chaiken
