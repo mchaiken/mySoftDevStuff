@@ -6,6 +6,12 @@ Period 5
 
 ## Main Projects
 
+### Event Planner/Organizer
+#### Miranda, Leon, Jenny, Sydney
+#### Description
+Organize and plan events 
+#### https://github.com/mchaiken/Event-Narwhal.git
+
 ### Question Answerer
 #### Miranda, Junhao, Nathaniel, Andrew
 #### Description
